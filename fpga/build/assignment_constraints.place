@@ -1,0 +1,2 @@
+x       8   3  0  # set_io x		6
+$iopadmap$helloworldfpga.o  10   3  0  # set_io o         	2

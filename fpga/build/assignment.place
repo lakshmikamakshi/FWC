@@ -1,0 +1,13 @@
+Netlist_File: assignment.net Netlist_ID: SHA256:d6be7158271e96939959571ee604ad4e467765b9763a5323e1174eba283a2338
+Array size: 39 x 35 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+o_LUT4_O.c_frag	18	27	0	#0
+$iopadmap$helloworldfpga.o	10	3	0	#1
+z		18	32	0	#2
+x		8	3	0	#3
+y		20	32	0	#4
+w		16	32	0	#5
+$false		3	1	0	#6
+$true		2	1	0	#7
